@@ -46,6 +46,8 @@ replan: the Fast-Planning algorithm in the paper
 
 ./replan ../dataset/synthetic/0100_3000_0090_0180_06/data_00.txt
 
+./ignore ../dataset/synthetic/0100_3000_0090_0180_06/data_00.txt
+
 0100_3000_0090_0180_06: the varied paramters in the experiments
 
 data_00.txt: the information of the tasks and workers (i.e., the input)
