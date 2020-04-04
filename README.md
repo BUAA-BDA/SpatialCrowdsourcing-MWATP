@@ -64,7 +64,7 @@ genDataSynthetic.py: a script to generate the synthetic datasets in the experime
 synthetic: a sample of the synthetic datasets
 
 
-Related other resources
+Related resources
 ------------------------
 We have maintained a paper list of the studies on spatial crowdsourcing. [link](https://github.com/BUAA-BDA/SpatialCrowdsourcing-Survey)
 
